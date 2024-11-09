@@ -1,0 +1,5 @@
+.editor-image {
+    max-width: 100%; /* Make sure images do not overflow */
+    border-radius: 5px; /* Add rounded corners */
+    margin: 10px 0; /* Add vertical spacing */
+}
